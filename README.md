@@ -2,6 +2,8 @@
 
 ![Walmart-Analytics Banner](https://www.supplychainbrain.com/ext/resources/2022/11/15/WALMART-STOREFRONT-iStock-1205217071.jpg?t=1668529933&width=1080)
 
+![Dash Banner](https://github.com/abdullah-khaled0/Walmart-Analytics/blob/main/dashboard.png)
+
 ## Project Overview
 This project aims to develop a machine learning solution to predict **weekly retail sales** for a chain of stores, utilizing various external factors such as temperature, fuel prices, CPI (Consumer Price Index), unemployment rates, and holiday flags. Accurate sales forecasting is essential for efficient inventory management, marketing strategies, and optimizing operational processes.
 
